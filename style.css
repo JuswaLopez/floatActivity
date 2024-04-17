@@ -1,0 +1,80 @@
+body
+{
+font-family: Arial, Helvetica, Sans-serif;
+margin: 0;
+}
+
+#flowt
+{
+   position: relative;
+
+	
+}
+img
+{
+	width: 100%;
+	height: 550px;
+}
+
+#infoz
+{
+	top: 8%;
+	right: 5%;
+	position:absolute;
+	background-color: white;
+	height: 450px;
+	width: 1130px;
+}
+#programz
+{
+	font-size: 15px;
+	padding-top:40px;
+	padding-left:40px;
+	
+}
+#programzz
+{
+	color: #DB545A;
+	font-size:30px;
+}
+#mizzion
+{
+	padding-top:5px;
+	padding-left:40px;
+}
+#mizzionz
+{
+	color: #F1C513;
+	font-size:30px;
+}
+#abawt
+{
+	right: 45%;
+	top: 8%;
+	position:absolute;
+}
+#abawtz
+{
+	color: #18AC99;
+	font-size:30px;
+}
+#awardz
+{
+	right: 45%;
+	top: 50%;
+	position:absolute;
+    
+}
+#awardzz
+{
+	color: #858E99;
+	font-size:30px;
+}
+#imgg
+{
+	float:right;
+	top: 4%;
+	right: 1%;
+	position:absolute;
+	
+}
